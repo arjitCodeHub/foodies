@@ -139,7 +139,7 @@ ion-icon {
     display: flex;
     flex-wrap: wrap;
     gap: 1.5rem;
-    margin: 50px;
+/*     margin: 50px; */
 }
 
 .speciality .box-content .box {
@@ -199,7 +199,7 @@ ion-icon {
     display: flex;
     flex-wrap: wrap;
     gap: 1.5rem;
-    margin: 50px;
+/*     margin: 50px; */
 }
 
 .popular .box-content .box {
@@ -267,9 +267,7 @@ ion-icon {
     flex-wrap: wrap;
     gap: 1rem;
     padding: 1rem 0;
-    /* justify-content: space-around;
-    align-items: center; */
-    margin: 50px;
+/*     margin: 50px; */
 }
 
 .steps .box {
@@ -296,7 +294,7 @@ ion-icon {
     display: flex;
     flex-wrap: wrap;
     gap: 1.5rem;
-    margin: 50px;
+/*     margin: 50px; */
 }
 
 .gallery .box-content .box {
@@ -348,7 +346,7 @@ ion-icon {
     display: flex;
     flex-wrap: wrap;
     gap: 1.5rem;
-    margin: 50px;
+/*     margin: 50px; */
 }
 
 .review .box-content .box {
@@ -396,7 +394,7 @@ ion-icon {
     flex-wrap: wrap;
     gap: 1.5rem;
     border-radius: .5rem;
-    margin: 50px;
+/*     margin: 50px; */
 }
 
 .place-order .box .image {
